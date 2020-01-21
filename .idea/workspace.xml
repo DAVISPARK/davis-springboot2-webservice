@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f735c035-9c5a-47ad-a02f-ba740c2d54a6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="davis-springboot2-webservice" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="davis-springboot2-webservice" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="davis-springboot2-webservice" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="davis-springboot2-webservice" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="davis-springboot2-webservice" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+                <item name="org.springframework.boot:spring-boot-starter-web:2.1.7.RELEASE" type="cfea851d:ExternalSystemViewDefaultContributor$LibraryDependencyDataExternalSystemNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="davis-springboot2-webservice" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="davis-springboot2-webservice" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\IdeaProjects\davis-springboot2-webservice" />
+        <option value="C:\IdeaProjects\davis-springboot2-webservice\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WbHLOOGxH0j89gtQfxhTq5KzJB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/dap/book/springboot/domain" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/templates" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.dap.book.springboot" />
+      <recent name="com.dap.book.springboot.web" />
+      <recent name="com.dap.book.springboot.domain.posts" />
+      <recent name="com.dap.book.springboot.web.dto" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+      <recent name="groovy.util.GroovyTestCase" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\it\Desktop\davis-springboot2-webservice-master\src\main\resources\templates" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Application">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dap.book.springboot.Application" />
+      <module name="davis-springboot2-webservice.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dap.book.springboot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloControllerTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.dap.book.springboot.web.HelloControllerTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="IndexControllerTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.dap.book.springboot.web.IndexControllerTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="IndexControllerTest.메인페이지_로딩" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.dap.book.springboot.web.IndexControllerTest.메인페이지_로딩&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="PostsRepositoryTest.BaseTimeEntity_등록" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.dap.book.springboot.domain.posts.PostsRepositoryTest.BaseTimeEntity_등록&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.IndexControllerTest" />
+        <item itemvalue="Gradle.HelloControllerTest" />
+        <item itemvalue="Gradle.IndexControllerTest.메인페이지_로딩" />
+        <item itemvalue="Gradle.PostsRepositoryTest.BaseTimeEntity_등록" />
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f735c035-9c5a-47ad-a02f-ba740c2d54a6" name="Default Changelist" comment="" />
+      <created>1579411317921</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579411317921</updated>
+    </task>
+    <task id="LOCAL-00001" summary="gitignore 등록">
+      <created>1579411889438</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579411889438</updated>
+    </task>
+    <task id="LOCAL-00002" summary="HEllO WORLD">
+      <created>1579416275118</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579416275118</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Lombok, JPA 테스트 수행 완료">
+      <created>1579422103640</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1579422103640</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Lombok, JPA 테스트 수행 완료">
+      <created>1579422179304</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1579422179304</updated>
+    </task>
+    <task id="LOCAL-00005" summary="등록/수정/조회 API 만들기 및 테스트 완료">
+      <created>1579431306212</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1579431306212</updated>
+    </task>
+    <task id="LOCAL-00006" summary="JPA Auditing 생성/수정 시간 자동화 테스트 완료">
+      <created>1579432781755</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1579432781755</updated>
+    </task>
+    <task id="LOCAL-00007" summary="머스테치 빌드 및 테스트 완료">
+      <created>1579435087885</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1579435087885</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="gitignore 등록" />
+    <MESSAGE value="HEllO WORLD" />
+    <MESSAGE value="Lombok, JPA 테스트 수행 완료" />
+    <MESSAGE value="등록/수정/조회 API 만들기 및 테스트 완료" />
+    <MESSAGE value="JPA Auditing 생성/수정 시간 자동화 테스트 완료" />
+    <MESSAGE value="머스테치 빌드 및 테스트 완료" />
+    <option name="LAST_COMMIT_MESSAGE" value="머스테치 빌드 및 테스트 완료" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="173" key="#Plugins" timestamp="1579433412990">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="446" y="173" key="#Plugins/0.0.1707.1027@0.0.1707.1027" timestamp="1579433412990" />
+    <state x="446" y="173" key="#Project_Structure" timestamp="1579421669079">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="446" y="173" key="#Project_Structure/0.0.1707.1027@0.0.1707.1027" timestamp="1579421669079" />
+    <state x="93" y="93" width="1521" height="841" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1579421927516">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="93" y="93" width="1521" height="841" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1579421927516" />
+    <state x="454" y="106" key="CommitChangelistDialog2" timestamp="1579435086492">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="454" y="106" key="CommitChangelistDialog2/0.0.1707.1027@0.0.1707.1027" timestamp="1579435086492" />
+    <state x="208" y="91" key="DiffContextDialog" timestamp="1579422063929">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="208" y="91" key="DiffContextDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1579422063929" />
+    <state x="676" y="405" key="Github.ShareDialog" timestamp="1579411622718">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="676" y="405" key="Github.ShareDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1579411622718" />
+    <state x="567" y="218" key="Github.UntrackedFilesDialog" timestamp="1579411653576">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="567" y="218" key="Github.UntrackedFilesDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1579411653576" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1579577751198">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1663" height="370" key="GridCell.Tab.0.bottom/0.0.1707.1027@0.0.1707.1027" timestamp="1579436358583" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579577751198" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1579577751198">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1663" height="370" key="GridCell.Tab.0.center/0.0.1707.1027@0.0.1707.1027" timestamp="1579436358581" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579577751198" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1579577751197">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1663" height="370" key="GridCell.Tab.0.left/0.0.1707.1027@0.0.1707.1027" timestamp="1579436358581" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579577751197" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1579577751198">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1663" height="370" key="GridCell.Tab.0.right/0.0.1707.1027@0.0.1707.1027" timestamp="1579436358582" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579577751198" />
+    <state x="399" y="158" key="SettingsEditor" timestamp="1579565583641">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="355" y="156" key="SettingsEditor/0.0.1707.1027@0.0.1707.1027" timestamp="1579419157893" />
+    <state x="399" y="158" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579565583641" />
+    <state x="446" y="247" key="Vcs.Push.Dialog.v2" timestamp="1579435090785">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="446" y="247" key="Vcs.Push.Dialog.v2/0.0.1707.1027@0.0.1707.1027" timestamp="1579435090785" />
+    <state x="649" y="292" width="508" height="443" key="chooseDestDirectoryDialog" timestamp="1579431461952">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="649" y="292" width="508" height="443" key="chooseDestDirectoryDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1579431461952" />
+    <state x="657" y="431" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579430988698">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="657" y="431" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1707.1027@0.0.1707.1027" timestamp="1579430988698" />
+    <state x="701" y="220" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1579509671907">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="217" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1579434679646" />
+    <state x="701" y="220" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579509671907" />
+    <state x="653" y="116" width="613" height="807" key="find.popup" timestamp="1579590796041">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="653" y="116" width="613" height="807" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1579590796041" />
+    <state x="580" y="225" width="756" height="687" key="search.everywhere.popup" timestamp="1579576694957">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="516" y="222" width="672" height="678" key="search.everywhere.popup/0.0.1707.1027@0.0.1707.1027" timestamp="1579433399678" />
+    <state x="580" y="225" width="756" height="687" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1579576694957" />
+  </component>
+</project>
